@@ -1,0 +1,2 @@
+This is my submission on the Paris 2024 Olympics! 🎉 I've just wrapped up an in-depth analysis of the games, and let me tell you, it was an absolute thrill.
+I dove into the data and uncovered some fascinating trends and standout performances. The blend of historic venues with cutting-edge innovation made these Olympics truly unforgettable. I've summarized my key takeaways in the infographic and used PowerBI for the analysis.
